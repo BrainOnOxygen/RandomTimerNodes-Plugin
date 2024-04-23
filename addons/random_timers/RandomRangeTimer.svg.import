@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qvsfv1k4acyx"
-path="res://.godot/imported/RandomRangeTimer.svg-e3a790735f94d0b1576cc10376c5c496.ctex"
+path="res://.godot/imported/RandomRangeTimer.svg-6b09fd593cdca14e3f5bbb409ac4fea6.ctex"
 metadata={
 "has_editor_variant": true,
 "vram_texture": false
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://addons/random_timers/RandomRangeTimer.svg"
-dest_files=["res://.godot/imported/RandomRangeTimer.svg-e3a790735f94d0b1576cc10376c5c496.ctex"]
+source_file="res://addons/random_timers/addons/random_timers/RandomRangeTimer.svg"
+dest_files=["res://.godot/imported/RandomRangeTimer.svg-6b09fd593cdca14e3f5bbb409ac4fea6.ctex"]
 
 [params]
 

@@ -1,6 +1,6 @@
-## Countdowns from random intervals between 2 given numbers. NOTE: The parent Timer's wait_time is overriden. Manual changes in the editor have no effect.
 @icon("RandomTimers.svg")
 extends Timer
+## Countdowns from random intervals between 2 given numbers. NOTE: The parent Timer's wait_time is overriden. Manual changes in the editor have no effect.
 
 @export_range(0.001, 4096, 0.001, "or_greater","exp", "suffix:s") var min_wait_time: float = 1.0 ##Start of wait time range. (Will work as long as it is a different number from max_wait_time)
 @export_range(0.001, 4096, 0.001, "or_greater","exp", "suffix:s") var max_wait_time: float = 2.0 ##End of wait time range. 
